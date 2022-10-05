@@ -1,0 +1,24 @@
+.aracbicstyle img {
+    width: 50%;
+}
+.arabicstyle{
+    display: flex;
+    justify-content: center;
+}
+.rightstyle{
+    text-align: right;
+}
+.rightstyle img {
+    height: 2%;
+    width: 90%;
+}
+.pfont{
+    font-family: 'Noto Sans Arabic', sans-serif;
+    text-align: right;
+}
+ul { direction: rtl; }
+ul li a { direction: ltr; unicode-bidi: embed; }
+.fontt{
+    font-family: 'Noto Sans Arabic', sans-serif;
+    font-size: 3vw;
+}
